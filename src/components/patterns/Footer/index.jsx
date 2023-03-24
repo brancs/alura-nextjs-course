@@ -1,5 +1,5 @@
 import { theme } from '@/theme/theme';
-import { Box, Text } from '@/theme/components';
+import { Box, Text } from '@/theme/Components';
 
 export default function Footer() {
   return (

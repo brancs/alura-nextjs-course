@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { theme } from '@/theme/theme';
-import { Image, Box, Text, Icon, Input, Button } from '@/theme/components';
+import { Image, Box, Text, Icon, Input, Button } from '@/theme/Components';
 import Footer from '@/components/patterns/Footer'
 import PageTitle from '@/components/PageTitle'
 

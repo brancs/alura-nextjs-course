@@ -2,7 +2,7 @@
 import Footer from '@/components/patterns/Footer';
 import Link from 'next/link';
 import { theme } from '@/theme/theme';
-import { Box, Text } from '@/theme/components';
+import { Box, Text } from '@/theme/Components';
 import PageTitle from '@/components/PageTitle'
 
 export default function FAQScreen({ faqList }) {
